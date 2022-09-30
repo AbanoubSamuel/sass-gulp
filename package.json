@@ -1,0 +1,22 @@
+{
+  "name": "sass-lab",
+  "version": "1.0.0",
+  "description": "compiling ass using gulp for mienfing",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "lab"
+  ],
+  "author": "Abanoub",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.55.0"
+  }
+}
